@@ -4,54 +4,104 @@ I'm a **System Administrator**, **Linux Engineer**, **DevOps Specialist**, and *
 
 ## TECH AND TOOLS
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linux.svg" alt="Linux" width="40" height="40" />
-      <br>Linux
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/freebsd.svg" alt="FreeBSD" width="40" height="40" />
-      <br>FreeBSD
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/openbsd.svg" alt="OpenBSD" width="40" height="40" />
-      <br>OpenBSD
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/solaris.svg" alt="Solaris" width="40" height="40" />
-      <br>Solaris
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/ibm.svg" alt="AIX" width="40" height="40" />
-      <br>AIX
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/windows.svg" alt="Windows" width="40" height="40" />
-      <br>Windows
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/apple.svg" alt="OSX" width="40" height="40" />
-      <br>OSX
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/gnubash.svg" alt="Bash" width="40" height="40" />
-      <br>Bash
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/python.svg" alt="Python" width="40" height="40" />
-      <br>Python
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/html5.svg" alt="HTML5" width="40" height="40" />
-      <br>HTML5
-    </td>
-  </tr>
-  <!-- Continue adicionando as linhas e colunas conforme necessário -->
-</table>
+### **OPERATING SYSTEMS:**
 
+- ![Linux](http://www.kernel.org)
+- ![Ubuntu](http://www.ubuntu.com)
+- ![CentOS](http://www.centos.org)
+- ![Debian](http://www.debian.org)
+- ![Red Hat](http://www.redhat.com)
+- ![Suse](http://www.suse.com)
+- ![ArchLinux](http://www.archlinux.org)
+- ![FreeBSD](http://www.freebsd.org)
+- ![OpenBSD](http://www.openbsd.org)
+- ![Oracle Solaris](https://www.oracle.com/solaris/solaris11/)
+- ![IBM AIX](https://www.ibm.com/products/aix)
+- ![Windows](http://www.windows.com)
+- ![MacOS](https://www.apple.com/br/macos/)
+
+### **LANGUAGES:**
+
+- ![Bash Script](https://www.gnu.org/software/bash/)
+- ![Python](http://www.python.org)
+- ![Html5](https://html.spec.whatwg.org/)
+- ![Golang](http://www.go.dev)
+
+### **NETWORKING:**
+
+- ![Cisco](http://www.cisco.com)
+- ![Fortinet](http://www.fortinet.com)
+
+### **AUTOMATION:**
+
+- ![Ansible](http://www.ansible.com)
+- ![Terraform](http://www.terraform.com)
+- ![Puppet](http://www.puppet.com)
+- ![Chef](http://www.chef.com)
+- ![Rundeck](http://www.rundeck.com)
+- ![Openstack](http://www.openstack.com)
+
+### **VIRTUALIZATION:**
+
+- ![Qemu](http://www.qemu.com)
+- ![Vmware](http://www.vmware.com)
+- ![Virtualbox](http://www.virtualbox.org)
+- ![Proxmox](http://www.proxmox.com)
+
+### **CONTAINERS:**
+
+- ![Lxd](http://www.lxd.org)
+- ![Docker](http://www.docker.com)
+- ![Podman](http://www.podman.io)
+
+### **CI/CD:**
+
+- ![Gitlab](http://www.gitlab.com)
+- ![Github](http://www.github.com)
+
+### **OBSERVABILITY:**
+
+- ![Grafana](http://www.grafana.com)
+- ![Fluentd](http://www.fluentd.org)
+- ![Prometheus](http://www.prometheus.com)
+- ![Nagios](http://www.nagios.com)
+- ![Zabbix](http://www.zabbix.com)
+- ![Newrelic](http://www.newrelic.com)
+- ![Elasticsearch](http://www.elasticsearch.com)
+- ![Logstash](http://www.logstash.net)
+- ![Datadog](http://www.datadog.com)
+
+### **DATABASES:**
+
+- ![Mysql](http://www.mysql.com)
+- ![Mongodb](http://www.mongodb.com)
+- ![Postgresql](http://www.postgresql.com)
+
+### **ORCHESTRATION:**
+
+- ![Kubernetes](http://www.kubernetes.com)
+- ![Swarm](http://www.swarm.org)
+
+### **STORAGE:**
+
+- ![Ceph](http://www.ceph.com)
+- GlusterFS
+- NFS
+- Veritas Infoscale
+
+### **SECURITY:**
+
+- ![Opnsense](http://www.opnsense.com)
+- ![Keycloak](http://www.keycloak.org)
+- ![Openvpn](http://www.openvpn.com)
+- ![Crowdstrike](http://www.crowdstrike.com)
+
+### **CLOUD COMPUTING:**
+
+- ![Azure](http://www.azure.com)
+- ![Digitalocean](http://www.digitalocean.com)
+- ![Linode](http://www.linode.com)
+- ![Vultr](http://www.vultr.com)
 
 ### CURRENT PROJECT
 
