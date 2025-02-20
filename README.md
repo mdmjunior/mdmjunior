@@ -47,7 +47,7 @@ and infrastructure as code.
 
 ### **CONTAINERS:**
 
-- <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/lxd.svg" alt="lxd" width="20" height="20" align="center"> LXD
+- <img src="https://simpleicons.org/icons/linuxcontainers.svg" alt="lxd" width="20" height="20" align="center"> LXD
 - <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/docker.svg" alt="docker" width="20" height="20" align="center"> Docker
 - <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/podman.svg" alt="podman" width="20" height="20" align="center"> Podman
 - <img src="https://simpleicons.org/icons/kubernetes.svg" alt="kubernetes" width="20" height="20" align="center"> Kubernetes
