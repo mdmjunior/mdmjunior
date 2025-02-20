@@ -19,81 +19,80 @@ and infrastructure as code.
 ### **LANGUAGES:**
 
 - <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/nexterm.svg" alt="Bash" width="20" height="20" align="center"> Bash Script
-- [Python](https://www.python.org)
-- [HTML5](https://html.spec.whatwg.org/)
-- [GoLang](https://www.go.dev)
+- <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/python.svg" alt="python" width="20" height="20" align="center"> Python
+- <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/html5.svg" alt="html5" width="20" height="20" align="center"> HTML5
+- <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/golang.svg" alt="golang" width="20" height="20" align="center"> GoLang
 
 ### **NETWORKING:**
 
-- [Cisco](https://www.cisco.com)
-- [Fortinet](https://www.fortinet.com)
+<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/cisco.svg" alt="cisco" width="20" height="20" align="center"> Cisco
+<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/fortinet.svg" alt="fortinet" width="20" height="20" align="center"> Fortinet
 
 ### **AUTOMATION:**
 
-- [Ansible](https://www.ansible.com)
-- [Terraform](https://www.terraform.io)
-- [Puppet](https://www.puppet.com)
-- [Chef](https://www.chef.io)
-- [Rundeck](https://www.rundeck.com)
-- [Openstack](https://www.openstack.org)
+<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/ansible.svg" alt="ansible" width="20" height="20" align="center"> Ansible
+<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/terraform.svg" alt="terraform" width="20" height="20" align="center"> Terraform
+<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/puppet.svg" alt="puppet" width="20" height="20" align="center"> Puppet
+<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/chef.svg" alt="chef" width="20" height="20" align="center"> Chef
+<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/rundeck.svg" alt="rundeck" width="20" height="20" align="center"> Rundeck
+<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/openstack.svg" alt="openstack" width="20" height="20" align="center"> Openstack
 
 ### **VIRTUALIZATION:**
 
-- [QEMU](https://www.qemu.org)
-- [VMWare](https://www.vmware.com)
-- [Oracle VirtualBox](https://www.virtualbox.org)
-- [Proxmox](https://www.proxmox.com)
+<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/qemu.svg" alt="qemu" width="20" height="20" align="center"> QEMU
+<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/vmware.svg" alt="vmware" width="20" height="20" align="center"> VMWare
+<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/oracle virtualbox.svg" alt="oracle virtualbox" width="20" height="20" align="center"> Oracle VirtualBox
+<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/proxmox.svg" alt="proxmox" width="20" height="20" align="center"> Proxmox
 
 ### **CONTAINERS:**
 
-- [LXD](https://www.canonical.com/lxd)
-- [Docker](https://www.docker.io)
-- [Podman](https://www.podman.io)
-- [Kubernetes](https://www.kubernetes.io)
+<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/lxd.svg" alt="lxd" width="20" height="20" align="center"> LXD
+<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/docker.svg" alt="docker" width="20" height="20" align="center"> Docker
+<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/podman.svg" alt="podman" width="20" height="20" align="center"> Podman
+<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/kubernetes.svg" alt="kubernetes" width="20" height="20" align="center"> Kubernetes
 
 ### **CI/CD:**
 
-- [Gitlab](https://www.gitlab.com)
-- [GitHUB](https://www.github.com)
-- [Gitea](https://www.gitea.com)
+<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/gitlab.svg" alt="gitlab" width="20" height="20" align="center"> Gitlab
+<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/github.svg" alt="github" width="20" height="20" align="center"> GitHUB
+<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/gitea.svg" alt="gitea" width="20" height="20" align="center"> Gitea
 
 ### **OBSERVABILITY:**
 
-- [Grafana](https://grafana.com)
-- [Fluentd](https://www.fluentd.org)
-- [Prometheus](https://www.prometheus.io)
-- [Nagios](https://www.nagios.org)
-- [Zabbix](https://www.zabbix.com)
-- [New Relic](https://www.newrelic.com)
-- [Elastic search](https://www.elastic.io)
-- [Datadog](https://www.datadoghq.com)
+<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/grafana.svg" alt="grafana" width="20" height="20" align="center"> Grafana
+<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/fluentd.svg" alt="fluentd" width="20" height="20" align="center"> Fluentd
+<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/prometheus.svg" alt="prometheus" width="20" height="20" align="center"> Prometheus
+<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/nagios.svg" alt="nagios" width="20" height="20" align="center"> Nagios
+<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/zabbix.svg" alt="zabbix" width="20" height="20" align="center"> Zabbix
+<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/new relic.svg" alt="new relic" width="20" height="20" align="center"> New Relic
+<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/elastic search.svg" alt="elastic search" width="20" height="20" align="center"> Elastic search
+<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/datadog.svg" alt="datadog" width="20" height="20" align="center"> Datadog
 
 ### **DATABASES:**
 
-- [MySQL](https://www.mysql.com)
-- [MongoDB](https://www.mongodb.com)
-- [PostgreSQL](https://www.postgresql.org)
+<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/mysql.svg" alt="mysql" width="20" height="20" align="center"> MySQL
+<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/mongodb.svg" alt="mongodb" width="20" height="20" align="center"> MongoDB
+<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/postgresql.svg" alt="postgresql" width="20" height="20" align="center"> PostgreSQL
 
 ### **STORAGE:**
 
-- [Ceph](https://www.ceph.com)
-- [GlusterFS](https://www.gluster.org)
+<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/ceph.svg" alt="ceph" width="20" height="20" align="center"> Ceph
+<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/glusterfs.svg" alt="glusterfs" width="20" height="20" align="center"> GlusterFS
 
 ### **SECURITY:**
 
-- [OpnSense](https://www.opnsense.org)
-- [OpenVPN](https://www.openvpn.net)
-- [Crowdstrike](https://www.crowdstrike.com)
+<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/opnsense.svg" alt="opnsense" width="20" height="20" align="center"> OpnSense
+<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/openvpn.svg" alt="openvpn" width="20" height="20" align="center"> OpenVPN
+<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/crowdstrike.svg" alt="crowdstrike" width="20" height="20" align="center"> Crowdstrike
 
 ### **CLOUD COMPUTING:**
 
-- [Microsoft Azure](https://azure.microsoft.com)
-- [Amazon Web Services](https://aws.amazon.com)
-- [Google Cloud](https://cloud.google.com)
-- [Digital Ocean](https://www.digitalocean.com)
-- [Linode](https://www.linode.com)
-- [Vultr](https://www.vultr.com)
-- [Oracle Cloud](https://www.oracle.com/cloud/)
+<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/microsoft-azure.svg" alt="microsoft azure" width="20" height="20" align="center"> Microsoft Azure
+<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/amazon web services.svg" alt="amazon web services" width="20" height="20" align="center"> Amazon Web Services
+<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/google cloud.svg" alt="google cloud" width="20" height="20" align="center"> Google Cloud
+<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/digital ocean.svg" alt="digital ocean" width="20" height="20" align="center"> Digital Ocean
+<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/linode.svg" alt="linode" width="20" height="20" align="center"> Linode
+<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/vultr.svg" alt="vultr" width="20" height="20" align="center"> Vultr
 
 ### CURRENT PROJECT
 
