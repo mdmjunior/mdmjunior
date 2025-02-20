@@ -10,11 +10,11 @@ and infrastructure as code.
 - <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/ubuntu.svg" alt="Ubuntu" width="20" height="20" align="center"> Ubuntu
 - <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/linux.svg" alt="CentOS" width="20" height="20" align="center"> CentOS
 - <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/debian.svg" alt="Debian" width="20" height="20" align="center"> Debian
-- <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/linux.svg" alt="Red Hat" width="20" height="20" align="center"> Red Hat
+- <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/linux-light.svg" alt="Red Hat" width="20" height="20" align="center"> Red Hat
 - <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/opensuse.svg" alt="SuSE" width="20" height="20" align="center"> openSUSE
 - <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/arch-linux.svg" alt="ArchLinux" width="20" height="20" align="center"> ArchLinux
 - <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/microsoft-windows.svg" alt="Windows" width="20" height="20" align="center"> Windows
-- <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/apple.svg" alt="MacOS" width="20" height="20" align="center"> MacOS
+- <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/apple-light.svg" alt="MacOS" width="20" height="20" align="center"> MacOS
 
 ### **LANGUAGES:**
 
