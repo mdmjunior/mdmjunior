@@ -6,106 +6,102 @@ I'm a **System Administrator**, **Linux Engineer**, **DevOps Specialist**, and *
 
 ### **OPERATING SYSTEMS:**
 
-- [Linux](http://www.kernel.org)
-- [Ubuntu](http://www.ubuntu.com)
-- [CentOS](http://www.centos.org)
-- [Debian](http://www.debian.org)
-- [Red Hat](http://www.redhat.com)
-- [Suse](http://www.suse.com)
-- [ArchLinux](http://www.archlinux.org)
-- [FreeBSD](http://www.freebsd.org)
-- [OpenBSD](http://www.openbsd.org)
-- [Oracle Solaris](https://www.oracle.com/solaris/solaris11/)
-- [IBM AIX](https://www.ibm.com/products/aix)
-- [Windows](http://www.windows.com)
-- [MacOS](https://www.apple.com/br/macos/)
+- [Linux](https://www.kernel.org)
+      - [Ubuntu](https://www.ubuntu.com)
+      - [CentOS](https://www.centos.org)
+      - [Debian](https://www.debian.org)
+      - [Red Hat](https://www.redhat.com)
+      - [SuSE](https://www.suse.com)
+      - [ArchLinux](https://www.archlinux.org)
+- [FreeBSD](https://www.freebsd.org)
+- [OpenBSD](https://www.openbsd.org)
+- [Oracle Solaris](httpss://www.oracle.com/solaris/solaris11/)
+- [IBM AIX](httpss://www.ibm.com/products/aix)
+- [Windows](https://www.windows.com)
+- [MacOS](httpss://www.apple.com/br/macos/)
 
 ### **LANGUAGES:**
 
-- [Bash Script](https://www.gnu.org/software/bash/)
-- [Python](http://www.python.org)
-- [Html5](https://html.spec.whatwg.org/)
-- [Golang](http://www.go.dev)
+- [Bash Script](httpss://www.gnu.org/software/bash/)
+- [Python](https://www.python.org)
+- [Html5](httpss://html.spec.whatwg.org/)
+- [GoLang](https://www.go.dev)
 
 ### **NETWORKING:**
 
-- [Cisco](http://www.cisco.com)
-- [Fortinet](http://www.fortinet.com)
+- [Cisco](https://www.cisco.com)
+- [Fortinet](https://www.fortinet.com)
 
 ### **AUTOMATION:**
 
-- [Ansible](http://www.ansible.com)
-- [Terraform](http://www.terraform.com)
-- [Puppet](http://www.puppet.com)
-- [Chef](http://www.chef.com)
-- [Rundeck](http://www.rundeck.com)
-- [Openstack](http://www.openstack.com)
+- [Ansible](https://www.ansible.com)
+- [Terraform](https://www.terraform.io)
+- [Puppet](https://www.puppet.com)
+- [Chef](https://www.chef.io)
+- [Rundeck](https://www.rundeck.com)
+- [Openstack](https://www.openstack.org)
 
 ### **VIRTUALIZATION:**
 
-- [Qemu](http://www.qemu.com)
-- [Vmware](http://www.vmware.com)
-- [Virtualbox](http://www.virtualbox.org)
-- [Proxmox](http://www.proxmox.com)
+- [QEMU](httpss://www.qemu.org)
+- [VMWare](httpss://www.vmware.com)
+- [Oracle VirtualBox](https://www.virtualbox.org)
+- [Proxmox](https://www.proxmox.com)
 
 ### **CONTAINERS:**
 
-- [Lxd](http://www.lxd.org)
-- [Docker](http://www.docker.com)
-- [Podman](http://www.podman.io)
+- [LXD](https://www.canonical.com/lxd)
+- [Docker](https://www.docker.io)
+- [Podman](https://www.podman.io)
+- [Kubernetes](https://www.kubernetes.io)
 
 ### **CI/CD:**
 
-- [Gitlab](http://www.gitlab.com)
-- [Github](http://www.github.com)
+- [Gitlab](https://www.gitlab.com)
+- [GitHUB](https://www.github.com)
+- [Gitea](https://www.gitea.com)
 
 ### **OBSERVABILITY:**
 
-- [Grafana](http://www.grafana.com)
-- [Fluentd](http://www.fluentd.org)
-- [Prometheus](http://www.prometheus.com)
-- [Nagios](http://www.nagios.com)
-- [Zabbix](http://www.zabbix.com)
-- [Newrelic](http://www.newrelic.com)
-- [Elasticsearch](http://www.elasticsearch.com)
-- [Logstash](http://www.logstash.net)
-- [Datadog](http://www.datadog.com)
+- [Grafana](https://grafana.com)
+- [Fluentd](https://www.fluentd.org)
+- [Prometheus](https://www.prometheus.io)
+- [Nagios](https://www.nagios.org)
+- [Zabbix](https://www.zabbix.com)
+- [New Relic](https://www.newrelic.com)
+- [Elasticsearch](https://www.elastic.io)
+- [Datadog](https://www.datadoghq.com)
 
 ### **DATABASES:**
 
-- [Mysql](http://www.mysql.com)
-- [Mongodb](http://www.mongodb.com)
-- [Postgresql](http://www.postgresql.com)
-
-### **ORCHESTRATION:**
-
-- [Kubernetes](http://www.kubernetes.com)
-- [Swarm](http://www.swarm.org)
+- [MySQL](https://www.mysql.com)
+- [MongoDB](https://www.mongodb.com)
+- [PostgreSQL](https://www.postgresql.org)
 
 ### **STORAGE:**
 
-- [Ceph](http://www.ceph.com)
-- GlusterFS
-- NFS
-- Veritas Infoscale
+- [Ceph](https://www.ceph.com)
+- [GlusterFS](https://www.gluster.org)
 
 ### **SECURITY:**
 
-- [Opnsense](http://www.opnsense.com)
-- [Keycloak](http://www.keycloak.org)
-- [Openvpn](http://www.openvpn.com)
-- [Crowdstrike](http://www.crowdstrike.com)
+- [Opnsense](https://www.opnsense.org)
+- [OpenVPN](https://www.openvpn.net)
+- [Crowdstrike](https://www.crowdstrike.com)
 
 ### **CLOUD COMPUTING:**
 
-- [Azure](http://www.azure.com)
-- [Digitalocean](http://www.digitalocean.com)
-- [Linode](http://www.linode.com)
-- [Vultr](http://www.vultr.com)
+- [Azure](https://azure.microsoft.com)
+- [Amazon Web Services](https://aws.amazon.com)
+- [Google Cloud](https://cloud.google.com)
+- [Digital Ocean](https://www.digitalocean.com)
+- [Linode](https://www.linode.com)
+- [Vultr](https://www.vultr.com)
+- [Oracle Cloud](https://www.oracle.com/cloud/)
 
 ### CURRENT PROJECT
 
-I'm currently working on [**AutoM8**](https://github.com/mdmjunior/AutoM8), a powerful automation tool designed to simplify and streamline repetitive tasks. Check it out and feel free to contribute!
+I'm currently working on [**AutoM8**](httpss://github.com/mdmjunior/AutoM8), a powerful automation tool designed to simplify and streamline repetitive tasks. Check it out and feel free to contribute!
 
 ### OUTSIDE OF TECH
 
