@@ -2,7 +2,7 @@
 
 I'm a **System Administrator**, **Linux Engineer**, **DevOps Specialist**, and **Site Reliability Engineer (SRE)** with a passion for automation, scalability, and infrastructure as code.
 
-## TECH STACK
+## TECH AND TOOLS
 
 ### **OPERATING SYSTEMS:**
 
@@ -23,40 +23,37 @@ I'm a **System Administrator**, **Linux Engineer**, **DevOps Specialist**, and *
 - TypeScript
 - GoLang
 
-### **Networking:**
+### **NETWORKING:**
 TCP/IP, LAN, WAN, DNS, SDN, IPv6, Cisco Routers, Fortinet;
 
-### **Development:**
-Bash Script, Python, GoLang;
-
-### **Automation:**
+### **AUTOMATION:**
 Ansible, Terraform, Puppet, Chef, Rundeck, OpenStack;
 
-### **Virtualization:**
+### **VIRTUALIZATION:**
 QEMU, VMWare, VirtualBox, ProxMox;
 
-### **Containers:**
+### **CONTAINERS:**
 LXD, Docker, ProxMox;
 
-### **CI/Delivery:**
+### **CI/CD:**
 Gitlab, [GitHub](http://github.com), Jenkins;
 
-### **Observability:**
+### **OBSERVABILITY:**
 Grafana, FluentD, Prometheus, Nagios, Zabbix, New Relic, ElasticSearch, Logstash, Datadog;
 
-### **Databases:**
+### **DATABASES:**
 MySQL, MongoDB, PostgreSQL;
 
-### **Orchestration:**
+### **ORCHESTRATION:**
 Kubernetes, Swarm;
 
-### **Storage:**
+### **STORAGE:**
 Ceph, GlusterFS, NFS, Veritas Infoscale;
 
-### **Security:**
+### **SECURITY:**
 OpnSense, KeyCloak, FortiGate Appliances, OpenVPN; Crowdstrike Falcon;
 
-### **Cloud Computing:**
+### **CLOUD COMPUTING:**
 AWS, GCP, Azure, Digital Ocean, Linode, Vultr, Oracle Cloud;
 
 ### Current Project
