@@ -7,7 +7,11 @@ and infrastructure as code.
 
 ### **OPERATING SYSTEMS:**
 
-- ![Ubuntu](https://cdn.jsdelivr.net/gh/selfhst/icons/svg/ubuntu.svg =54x54)[Ubuntu](https://www.ubuntu.com)
+<html>
+<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/ubuntu.svg" alt="Ubuntu" width="50" height="50">
+</html>
+
+- [Ubuntu](https://www.ubuntu.com)
 - [CentOS](https://www.centos.org)
 - [Debian](https://www.debian.org)
 - [Red Hat](https://www.redhat.com)
