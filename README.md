@@ -4,111 +4,55 @@ I'm a **System Administrator**, **Linux Engineer**, **DevOps Specialist**, and *
 
 ## TECH AND TOOLS
 
-### **OPERATING SYSTEMS:**
+| **OPERATING SYSTEMS**        | **LANGUAGES**           | **NETWORKING**            |
+| ---------------------------- | ----------------------- | --------------------------|
+| Linux (All flavors)           | Bash                    | TCP/IP                     |
+| FreeBSD                       | Python                  | LAN                        |
+| OpenBSD                       | HTML 5                  | WAN                        |
+| Solaris                       | JavaScript              | DNS                        |
+| AIX                           | TypeScript              | SDN                        |
+| Windows (Since Windows 3.1)   | GoLang                  | IPv6                       |
+| OSX (Since Lion)              |                         | Cisco Routers               |
+|                              |                         | Fortinet                   |
 
-- Linux (All flavors)
-- FreeBSD
-- OpenBSD
-- Solaris
-- AIX
-- Windows (Since Windows 3.1)
-- OSX (Since Lion)
+| **AUTOMATION**               | **VIRTUALIZATION**      | **CONTAINERS**             |
+| -----------------------------| ----------------------- | --------------------------|
+| Ansible                       | QEMU                    | LXD                        |
+| Terraform                     | VMWare                  | Docker                     |
+| Puppet                        | VirtualBox               | ProxMox                    |
+| Chef                          | ProxMox                 |                            |
+| Rundeck                       |                         |                            |
+| OpenStack                     |                         |                            |
 
-### **LANGUAGES:**
+| **CI/CD**                    | **OBSERVABILITY**       | **DATABASES**              |
+| -----------------------------| ----------------------- | --------------------------|
+| Gitlab                        | Grafana                 | MySQL                      |
+| [GitHub](http://github.com)   | FluentD                 | MongoDB                    |
+| Jenkins                       | Prometheus              | PostgreSQL                 |
+|                               | Nagios                  |                            |
+|                               | Zabbix                  |                            |
+|                               | New Relic               |                            |
+|                               | ElasticSearch            |                            |
+|                               | Logstash                |                            |
+|                               | Datadog                 |                            |
 
-- Bash
-- Python
-- HTML 5
-- JavaScript
-- TypeScript
-- GoLang
+| **ORCHESTRATION**            | **STORAGE**             | **SECURITY**               |
+| -----------------------------| ----------------------- | --------------------------|
+| Kubernetes                    | Ceph                    | OpnSense                   |
+| Swarm                         | GlusterFS               | KeyCloak                   |
+|                               | NFS                     | FortiGate Appliances        |
+|                               | Veritas Infoscale       | OpenVPN                    |
+|                               |                         | Crowdstrike Falcon          |
 
-### **NETWORKING:**
-
-- TCP/IP
-- LAN
-- WAN
-- DNS
-- SDN
-- IPv6
-- Cisco Routers
-- Fortinet
-
-### **AUTOMATION:**
-
-- Ansible
-- Terraform
-- Puppet
-- Chef
-- Rundeck
-- OpenStack
-
-### **VIRTUALIZATION:**
-
-- QEMU
-- VMWare
-- VirtualBox
-- ProxMox
-
-### **CONTAINERS:**
-
-- LXD
-- Docker
-- ProxMox
-
-### **CI/CD:**
-
-- Gitlab
-- [GitHub](http://github.com)
-- Jenkins
-
-### **OBSERVABILITY:**
-
-- Grafana
-- FluentD
-- Prometheus
-- Nagios
-- Zabbix
-- New Relic
-- ElasticSearch
-- Logstash
-- Datadog
-
-### **DATABASES:**
-
-- MySQL
-- MongoDB
-- PostgreSQL
-
-### **ORCHESTRATION:**
-
-- Kubernetes
-- Swarm
-
-### **STORAGE:**
-
-- Ceph
-- GlusterFS
-- NFS
-- Veritas Infoscale
-
-### **SECURITY:**
-
-- OpnSense
-- KeyCloak
-- FortiGate Appliances
-- OpenVPN
-- Crowdstrike Falcon
-
-### **CLOUD COMPUTING:**
-
-- AWS
-- GCP
-- Azure
-- Digital Ocean
-- Linode
-- Vultr
-- Oracle Cloud
+| **CLOUD COMPUTING**           |                         |                            |
+| ------------------------------| ----------------------- | --------------------------|
+| AWS                           |                         |                            |
+| GCP                           |                         |                            |
+| Azure                         |                         |                            |
+| Digital Ocean                 |                         |                            |
+| Linode                        |                         |                            |
+| Vultr                         |                         |                            |
+| Oracle Cloud                  |                         |                            |
 
 ### CURRENT PROJECT
 
