@@ -14,14 +14,14 @@ I'm a **System Administrator**, **Linux Engineer**, **DevOps Specialist**, and *
 - [Linux ArchLinux](https://www.archlinux.org)
 - [FreeBSD](https://www.freebsd.org)
 - [OpenBSD](https://www.openbsd.org)
-- [Oracle Solaris](httpss://www.oracle.com/solaris/solaris11/)
-- [IBM AIX](httpss://www.ibm.com/products/aix)
+- [Oracle Solaris](https://www.oracle.com/solaris/solaris11/)
+- [IBM AIX](https://www.ibm.com/products/aix)
 - [Windows](https://www.windows.com)
-- [MacOS](httpss://www.apple.com/br/macos/)
+- [MacOS](https://www.apple.com/br/macos/)
 
 ### **LANGUAGES:**
 
-- [Bash Script](httpss://www.gnu.org/software/bash/)
+- [Bash Script](https://www.gnu.org/software/bash/)
 - [Python](https://www.python.org)
 - [HTML5](httpss://html.spec.whatwg.org/)
 - [GoLang](https://www.go.dev)
@@ -42,8 +42,8 @@ I'm a **System Administrator**, **Linux Engineer**, **DevOps Specialist**, and *
 
 ### **VIRTUALIZATION:**
 
-- [QEMU](httpss://www.qemu.org)
-- [VMWare](httpss://www.vmware.com)
+- [QEMU](https://www.qemu.org)
+- [VMWare](https://www.vmware.com)
 - [Oracle VirtualBox](https://www.virtualbox.org)
 - [Proxmox](https://www.proxmox.com)
 
@@ -100,7 +100,7 @@ I'm a **System Administrator**, **Linux Engineer**, **DevOps Specialist**, and *
 
 ### CURRENT PROJECT
 
-I'm currently working on [**AutoM8**](httpss://github.com/mdmjunior/AutoM8), a powerful automation tool designed to simplify and streamline repetitive tasks. Check it out and feel free to contribute!
+I'm currently working on [**AutoM8**](https://github.com/mdmjunior/AutoM8), a powerful automation tool designed to simplify and streamline repetitive tasks. Check it out and feel free to contribute!
 
 ### OUTSIDE OF TECH
 
