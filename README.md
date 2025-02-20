@@ -55,7 +55,7 @@ and infrastructure as code.
 ### **CI/CD:**
 
 - <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/gitlab.svg" alt="gitlab" width="20" height="20" align="center"> Gitlab
-- <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/github-light.svg" alt="github" width="20" height="20" align="center"> GitHUB
+- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/github-light.svg" alt="github" width="20" height="20" align="center"> GitHUB
 - <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/gitea.svg" alt="gitea" width="20" height="20" align="center"> Gitea
 
 ### **OBSERVABILITY:**
