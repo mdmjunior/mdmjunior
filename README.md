@@ -8,7 +8,7 @@ and infrastructure as code.
 ### **OPERATING SYSTEMS:**
 
 <html>
-<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/ubuntu.svg" alt="Ubuntu" width="50" height="50">
+<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/ubuntu.svg" alt="Ubuntu" width="30" height="30">
 </html>
 
 - [Ubuntu](https://www.ubuntu.com)
