@@ -24,49 +24,108 @@ I'm a **System Administrator**, **Linux Engineer**, **DevOps Specialist**, and *
 - GoLang
 
 ### **NETWORKING:**
-TCP/IP, LAN, WAN, DNS, SDN, IPv6, Cisco Routers, Fortinet;
+
+- TCP/IP
+- LAN
+- WAN
+- DNS
+- SDN
+- IPv6
+- Cisco Routers
+- Fortinet
 
 ### **AUTOMATION:**
-Ansible, Terraform, Puppet, Chef, Rundeck, OpenStack;
+
+- Ansible
+- Terraform
+- Puppet
+- Chef
+- Rundeck
+- OpenStack
 
 ### **VIRTUALIZATION:**
-QEMU, VMWare, VirtualBox, ProxMox;
+
+- QEMU
+- VMWare
+- VirtualBox
+- ProxMox
 
 ### **CONTAINERS:**
-LXD, Docker, ProxMox;
+
+- LXD
+- Docker
+- ProxMox
 
 ### **CI/CD:**
-Gitlab, [GitHub](http://github.com), Jenkins;
+
+- Gitlab
+- [GitHub](http://github.com)
+- Jenkins
 
 ### **OBSERVABILITY:**
-Grafana, FluentD, Prometheus, Nagios, Zabbix, New Relic, ElasticSearch, Logstash, Datadog;
+
+- Grafana
+- FluentD
+- Prometheus
+- Nagios
+- Zabbix
+- New Relic
+- ElasticSearch
+- Logstash
+- Datadog
 
 ### **DATABASES:**
-MySQL, MongoDB, PostgreSQL;
+
+- MySQL
+- MongoDB
+- PostgreSQL
 
 ### **ORCHESTRATION:**
-Kubernetes, Swarm;
+
+- Kubernetes
+- Swarm
 
 ### **STORAGE:**
-Ceph, GlusterFS, NFS, Veritas Infoscale;
+
+- Ceph
+- GlusterFS
+- NFS
+- Veritas Infoscale
 
 ### **SECURITY:**
-OpnSense, KeyCloak, FortiGate Appliances, OpenVPN; Crowdstrike Falcon;
+
+- OpnSense
+- KeyCloak
+- FortiGate Appliances
+- OpenVPN
+- Crowdstrike Falcon
 
 ### **CLOUD COMPUTING:**
-AWS, GCP, Azure, Digital Ocean, Linode, Vultr, Oracle Cloud;
 
-### Current Project
+- AWS
+- GCP
+- Azure
+- Digital Ocean
+- Linode
+- Vultr
+- Oracle Cloud
+
+### CURRENT PROJECT
+
 I'm currently working on [**AutoM8**](https://github.com/mdmjunior/AutoM8), a powerful automation tool designed to simplify and streamline repetitive tasks. Check it out and feel free to contribute!
 
-### Outside of Tech
+### OUTSIDE OF TECH
+
 When I'm not immersed in code, you can find me:
 - Surfing the waves 🌊
 - Skating the streets 🛹
 - Biking through trails 🚴
 - Jamming on my guitar 🎸
 
-### Enthusiast
-I'm also passionate about music and tattoo.
+### ENTHUSIAST
+
+I'm also passionate about:
+- Music
+- Tattoo
 
 Feel free to connect or collaborate! Let's build something awesome together!
