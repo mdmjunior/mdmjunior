@@ -23,7 +23,7 @@ I'm a **System Administrator**, **Linux Engineer**, **DevOps Specialist**, and *
 
 - [Bash Script](https://www.gnu.org/software/bash/)
 - [Python](https://www.python.org)
-- [HTML5](httpss://html.spec.whatwg.org/)
+- [HTML5](https://html.spec.whatwg.org/)
 - [GoLang](https://www.go.dev)
 
 ### **NETWORKING:**
