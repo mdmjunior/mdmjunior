@@ -1,21 +1,18 @@
-# Welcome to my tech bunker.
+# Welcome to my Tech Bunker
 
-I'm a **System Administrator**, **Linux Engineer**, **DevOps Specialist**, and **Site Reliability Engineer (SRE)** with a passion for automation, scalability, and infrastructure as code.
+I'm a **System Administrator**, **Linux Engineer**, **DevOps Specialist**, and **Site Reliability Engineer (SRE)** with a passion for automation, scalability, 
+and infrastructure as code.
 
 ## TECH AND TOOLS
 
 ### **OPERATING SYSTEMS:**
 
-- [Linux Ubuntu](https://www.ubuntu.com)
-- [Linux CentOS](https://www.centos.org)
-- [Linux Debian](https://www.debian.org)
-- [Linux Red Hat](https://www.redhat.com)
-- [Linux SuSE](https://www.suse.com)
-- [Linux ArchLinux](https://www.archlinux.org)
-- [FreeBSD](https://www.freebsd.org)
-- [OpenBSD](https://www.openbsd.org)
-- [Oracle Solaris](https://www.oracle.com/solaris/solaris11/)
-- [IBM AIX](https://www.ibm.com/products/aix)
+- ![Ubuntu](https://cdn.jsdelivr.net/gh/selfhst/icons/svg/ubuntu.svg)
+- [CentOS](https://www.centos.org)
+- [Debian](https://www.debian.org)
+- [Red Hat](https://www.redhat.com)
+- [SuSE](https://www.suse.com)
+- [ArchLinux](https://www.archlinux.org)
 - [Windows](https://www.windows.com)
 - [MacOS](https://www.apple.com/br/macos/)
 
