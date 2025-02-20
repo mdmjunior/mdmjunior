@@ -6,13 +6,12 @@ I'm a **System Administrator**, **Linux Engineer**, **DevOps Specialist**, and *
 
 ### **OPERATING SYSTEMS:**
 
-- [Linux](https://www.kernel.org)
-      - [Ubuntu](https://www.ubuntu.com)
-      - [CentOS](https://www.centos.org)
-      - [Debian](https://www.debian.org)
-      - [Red Hat](https://www.redhat.com)
-      - [SuSE](https://www.suse.com)
-      - [ArchLinux](https://www.archlinux.org)
+- [Linux Ubuntu](https://www.ubuntu.com)
+- [Linux CentOS](https://www.centos.org)
+- [Linux Debian](https://www.debian.org)
+- [Linux Red Hat](https://www.redhat.com)
+- [Linux SuSE](https://www.suse.com)
+- [Linux ArchLinux](https://www.archlinux.org)
 - [FreeBSD](https://www.freebsd.org)
 - [OpenBSD](https://www.openbsd.org)
 - [Oracle Solaris](httpss://www.oracle.com/solaris/solaris11/)
@@ -24,7 +23,7 @@ I'm a **System Administrator**, **Linux Engineer**, **DevOps Specialist**, and *
 
 - [Bash Script](httpss://www.gnu.org/software/bash/)
 - [Python](https://www.python.org)
-- [Html5](httpss://html.spec.whatwg.org/)
+- [HTML5](httpss://html.spec.whatwg.org/)
 - [GoLang](https://www.go.dev)
 
 ### **NETWORKING:**
@@ -69,7 +68,7 @@ I'm a **System Administrator**, **Linux Engineer**, **DevOps Specialist**, and *
 - [Nagios](https://www.nagios.org)
 - [Zabbix](https://www.zabbix.com)
 - [New Relic](https://www.newrelic.com)
-- [Elasticsearch](https://www.elastic.io)
+- [Elastic search](https://www.elastic.io)
 - [Datadog](https://www.datadoghq.com)
 
 ### **DATABASES:**
@@ -85,13 +84,13 @@ I'm a **System Administrator**, **Linux Engineer**, **DevOps Specialist**, and *
 
 ### **SECURITY:**
 
-- [Opnsense](https://www.opnsense.org)
+- [OpnSense](https://www.opnsense.org)
 - [OpenVPN](https://www.openvpn.net)
 - [Crowdstrike](https://www.crowdstrike.com)
 
 ### **CLOUD COMPUTING:**
 
-- [Azure](https://azure.microsoft.com)
+- [Microsoft Azure](https://azure.microsoft.com)
 - [Amazon Web Services](https://aws.amazon.com)
 - [Google Cloud](https://cloud.google.com)
 - [Digital Ocean](https://www.digitalocean.com)
@@ -106,6 +105,7 @@ I'm currently working on [**AutoM8**](httpss://github.com/mdmjunior/AutoM8), a p
 ### OUTSIDE OF TECH
 
 When I'm not immersed in code, you can find me:
+
 - Surfing the waves 🌊
 - Skating the streets 🛹
 - Biking through trails 🚴
@@ -114,6 +114,7 @@ When I'm not immersed in code, you can find me:
 ### ENTHUSIAST
 
 I'm also passionate about:
+
 - Music
 - Tattoo
 
