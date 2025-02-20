@@ -65,8 +65,8 @@ and infrastructure as code.
 - <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/prometheus.svg" alt="prometheus" width="20" height="20" align="center"> Prometheus
 - <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/zabbix.svg" alt="zabbix" width="20" height="20" align="center"> Zabbix
 - <img src="https://simpleicons.org/icons/newrelic.svg" alt="new relic" width="20" height="20" align="center"> New Relic
-- <img src="https://simpleicons.org/icons/elasticsearch.svg" alt="elastic search" width="20" height="20" align="center"> Elastic search
-- <img src="https://simpleicons.org/icons/datadog.svg" alt="datadog" width="20" height="20" align="center"> Datadog
+- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/elasticsearch.svg" alt="elastic search" width="20" height="20" align="center"> Elastic search
+- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/datadog.svg" alt="datadog" width="20" height="20" align="center"> Datadog
 
 ### **DATABASES:**
 
@@ -87,9 +87,9 @@ and infrastructure as code.
 ### **CLOUD COMPUTING:**
 
 - <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/amazon-web-services.svg" alt="amazon web services" width="20" height="20" align="center"> Amazon Web Services
-- <img src="https://simpleicons.org/icons/googlecloud.svg" alt="google cloud" width="20" height="20" align="center"> Google Cloud
+- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/google-cloud-platform.svg" alt="google cloud" width="20" height="20" align="center"> Google Cloud Platform
 - <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/digitalocean.svg" alt="digital ocean" width="20" height="20" align="center"> Digital Ocean
-- <img src="https://simpleicons.org/icons/vultr.svg" alt="vultr" width="20" height="20" align="center"> Vultr
+- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/vultr.svg" alt="vultr" width="20" height="20" align="center"> Vultr
 
 ### CURRENT PROJECT
 
