@@ -33,7 +33,7 @@ and infrastructure as code.
 
 - <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/ansible.svg" alt="ansible" width="20" height="20" align="center"> Ansible
 - <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/hashicorp-terraform.svg" alt="terraform" width="20" height="20" align="center"> Terraform
-- <img src="https://simpleicons.org/icons/puppet.svg" alt="puppet" width="20" height="20" align="center"> Puppet
+- <img src="https://cdn.simpleicons.org/puppet/#FFAE1A" alt="puppet" width="20" height="20" align="center"> Puppet
 - <img src="https://simpleicons.org/icons/chef.svg" alt="chef" width="20" height="20" align="center"> Chef
 - <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/rundeck.svg" alt="rundeck" width="20" height="20" align="center"> Rundeck
 - <img src="https://simpleicons.org/icons/openstack.svg" alt="openstack" width="20" height="20" align="center"> Openstack
