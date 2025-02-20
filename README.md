@@ -47,7 +47,7 @@ and infrastructure as code.
 
 ### **CONTAINERS:**
 
-- <img src="https://simpleicons.org/icons/linuxcontainers.svg" alt="lxd" width="20" height="20" align="center"> LXD
+- <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/linuxcontainers.svg" alt="lxd" width="20" height="20" align="center"> LXD
 - <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/docker.svg" alt="docker" width="20" height="20" align="center"> Docker
 - <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/podman.svg" alt="podman" width="20" height="20" align="center"> Podman
 - <img src="https://simpleicons.org/icons/kubernetes.svg" alt="kubernetes" width="20" height="20" align="center"> Kubernetes
@@ -88,7 +88,7 @@ and infrastructure as code.
 ### **CLOUD COMPUTING:**
 
 - <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/microsoft-azure.svg" alt="microsoft azure" width="20" height="20" align="center"> Microsoft Azure
-- <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/amazon web services.svg" alt="amazon web services" width="20" height="20" align="center"> Amazon Web Services
+- <img src="![https://cdn.jsdelivr.net/gh/selfhst/icons/svg/amazon web services.svg](https://cdn.jsdelivr.net/gh/selfhst/icons/svg/amazon-web-services.svg)" alt="amazon web services" width="20" height="20" align="center"> Amazon Web Services
 - <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/google cloud.svg" alt="google cloud" width="20" height="20" align="center"> Google Cloud
 - <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/digital ocean.svg" alt="digital ocean" width="20" height="20" align="center"> Digital Ocean
 - <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/linode.svg" alt="linode" width="20" height="20" align="center"> Linode
