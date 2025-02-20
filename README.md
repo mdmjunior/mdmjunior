@@ -20,8 +20,8 @@ and infrastructure as code.
 
 - <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/nexterm.svg" alt="Bash" width="20" height="20" align="center"> Bash Script
 - <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/python.svg" alt="python" width="20" height="20" align="center"> Python
-- <img src="https://simpleicons.org/icons/html5.svg" alt="html5" width="20" height="20" align="center"> HTML5
-- <img src="https://simpleicons.org/icons/go.svg" alt="golang" width="20" height="20" align="center"> Go
+- <img src="https://simpleicons.org/icons/html5-color.svg" alt="html5" width="20" height="20" align="center"> HTML5
+- <img src="https://simpleicons.org/icons/go-color.svg" alt="golang" width="20" height="20" align="center"> Go
 
 ### **NETWORKING:**
 
