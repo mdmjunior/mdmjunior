@@ -4,55 +4,54 @@ I'm a **System Administrator**, **Linux Engineer**, **DevOps Specialist**, and *
 
 ## TECH AND TOOLS
 
-| **OPERATING SYSTEMS**        | **LANGUAGES**           | **NETWORKING**            |
-| ---------------------------- | ----------------------- | --------------------------|
-| Linux (All flavors)           | Bash                    | TCP/IP                     |
-| FreeBSD                       | Python                  | LAN                        |
-| OpenBSD                       | HTML 5                  | WAN                        |
-| Solaris                       | JavaScript              | DNS                        |
-| AIX                           | TypeScript              | SDN                        |
-| Windows (Since Windows 3.1)   | GoLang                  | IPv6                       |
-| OSX (Since Lion)              |                         | Cisco Routers               |
-|                              |                         | Fortinet                   |
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linux.svg" alt="Linux" width="40" height="40" />
+      <br>Linux
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/freebsd.svg" alt="FreeBSD" width="40" height="40" />
+      <br>FreeBSD
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/openbsd.svg" alt="OpenBSD" width="40" height="40" />
+      <br>OpenBSD
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/solaris.svg" alt="Solaris" width="40" height="40" />
+      <br>Solaris
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/ibm.svg" alt="AIX" width="40" height="40" />
+      <br>AIX
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/windows.svg" alt="Windows" width="40" height="40" />
+      <br>Windows
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/apple.svg" alt="OSX" width="40" height="40" />
+      <br>OSX
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/gnubash.svg" alt="Bash" width="40" height="40" />
+      <br>Bash
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/python.svg" alt="Python" width="40" height="40" />
+      <br>Python
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/html5.svg" alt="HTML5" width="40" height="40" />
+      <br>HTML5
+    </td>
+  </tr>
+  <!-- Continue adicionando as linhas e colunas conforme necessário -->
+</table>
 
-| **AUTOMATION**               | **VIRTUALIZATION**      | **CONTAINERS**             |
-| -----------------------------| ----------------------- | --------------------------|
-| Ansible                       | QEMU                    | LXD                        |
-| Terraform                     | VMWare                  | Docker                     |
-| Puppet                        | VirtualBox               | ProxMox                    |
-| Chef                          | ProxMox                 |                            |
-| Rundeck                       |                         |                            |
-| OpenStack                     |                         |                            |
-
-| **CI/CD**                    | **OBSERVABILITY**       | **DATABASES**              |
-| -----------------------------| ----------------------- | --------------------------|
-| Gitlab                        | Grafana                 | MySQL                      |
-| [GitHub](http://github.com)   | FluentD                 | MongoDB                    |
-| Jenkins                       | Prometheus              | PostgreSQL                 |
-|                               | Nagios                  |                            |
-|                               | Zabbix                  |                            |
-|                               | New Relic               |                            |
-|                               | ElasticSearch            |                            |
-|                               | Logstash                |                            |
-|                               | Datadog                 |                            |
-
-| **ORCHESTRATION**            | **STORAGE**             | **SECURITY**               |
-| -----------------------------| ----------------------- | --------------------------|
-| Kubernetes                    | Ceph                    | OpnSense                   |
-| Swarm                         | GlusterFS               | KeyCloak                   |
-|                               | NFS                     | FortiGate Appliances        |
-|                               | Veritas Infoscale       | OpenVPN                    |
-|                               |                         | Crowdstrike Falcon          |
-
-| **CLOUD COMPUTING**           |                         |                            |
-| ------------------------------| ----------------------- | --------------------------|
-| AWS                           |                         |                            |
-| GCP                           |                         |                            |
-| Azure                         |                         |                            |
-| Digital Ocean                 |                         |                            |
-| Linode                        |                         |                            |
-| Vultr                         |                         |                            |
-| Oracle Cloud                  |                         |                            |
 
 ### CURRENT PROJECT
 
