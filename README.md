@@ -83,13 +83,12 @@ and infrastructure as code.
 
 - <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/opnsense.svg" alt="opnsense" width="20" height="20" align="center"> OpnSense
 - <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/openvpn.svg" alt="openvpn" width="20" height="20" align="center"> OpenVPN
-- <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/crowdstrike.svg" alt="crowdstrike" width="20" height="20" align="center"> Crowdstrike
 
 ### **CLOUD COMPUTING:**
 
 - <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/microsoft-azure.svg" alt="microsoft azure" width="20" height="20" align="center"> Microsoft Azure
 - <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/amazon-web-services.svg" alt="amazon web services" width="20" height="20" align="center"> Amazon Web Services
-- <img src="![https://cdn.jsdelivr.net/gh/selfhst/icons/svg/google cloud.svg](https://simpleicons.org/icons/googlecloud.svg)" alt="google cloud" width="20" height="20" align="center"> Google Cloud
+- <img src="https://simpleicons.org/icons/googlecloud.svg" alt="google cloud" width="20" height="20" align="center"> Google Cloud
 - <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/digitalocean.svg" alt="digital ocean" width="20" height="20" align="center"> Digital Ocean
 - <img src="https://simpleicons.org/icons/vultr.svg" alt="vultr" width="20" height="20" align="center"> Vultr
 
