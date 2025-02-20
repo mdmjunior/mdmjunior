@@ -36,7 +36,6 @@ and infrastructure as code.
 - <img src="https://simpleicons.org/icons/puppet.svg" alt="puppet" width="20" height="20" align="center"> Puppet
 - <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/cyberchef.svg" alt="chef" width="20" height="20" align="center"> Chef
 - <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/rundeck.svg" alt="rundeck" width="20" height="20" align="center"> Rundeck
-- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/openstack.svg" alt="openstack" width="20" height="20" align="center"> Openstack
 
 ### **VIRTUALIZATION:**
 
@@ -86,6 +85,7 @@ and infrastructure as code.
 
 ### **CLOUD COMPUTING:**
 
+- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/openstack.svg" alt="openstack" width="20" height="20" align="center"> Openstack
 - <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/amazon-web-services.svg" alt="amazon web services" width="20" height="20" align="center"> Amazon Web Services
 - <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/google-cloud-platform.svg" alt="google cloud" width="20" height="20" align="center"> Google Cloud Platform
 - <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/digitalocean.svg" alt="digital ocean" width="20" height="20" align="center"> Digital Ocean
@@ -93,22 +93,5 @@ and infrastructure as code.
 
 ### CURRENT PROJECT
 
-I'm currently working on [**AutoM8**](https://github.com/mdmjunior/AutoM8), a powerful automation tool designed to simplify and streamline repetitive tasks. Check it out and feel free to contribute!
-
-### OUTSIDE OF TECH
-
-When I'm not immersed in code, you can find me:
-
-- Surfing the waves 🌊
-- Skating the streets 🛹
-- Biking through trails 🚴
-- Jamming on my guitar 🎸
-
-### ENTHUSIAST
-
-I'm also passionate about:
-
-- Music
-- Tattoo
-
-Feel free to connect or collaborate! Let's build something awesome together!
+I'm currently working on [**AutoM8**](https://github.com/mdmjunior/AutoM8), a powerful automation tool designed to simplify and streamline repetitive tasks. 
+Check it out and feel free to contribute!
