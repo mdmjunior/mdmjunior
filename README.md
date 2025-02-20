@@ -9,6 +9,7 @@ and infrastructure as code.
 
 - <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/ubuntu.svg" alt="Ubuntu" width="20" height="20" align="center"> Ubuntu
 - <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/linux.svg" alt="CentOS" width="20" height="20" align="center"> CentOS
+- <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/fedora.svg" alt="Fedora" width="20" height="20" align="center"> Fedora
 - <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/debian.svg" alt="Debian" width="20" height="20" align="center"> Debian
 - <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/linux.svg" alt="Red Hat" width="20" height="20" align="center"> Red Hat
 - <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/opensuse.svg" alt="SuSE" width="20" height="20" align="center"> openSUSE
@@ -42,31 +43,30 @@ and infrastructure as code.
 - <img src="https://simpleicons.org/icons/qemu.svg" alt="qemu" width="20" height="20" align="center"> QEMU
 - <img src="https://simpleicons.org/icons/vmware.svg" alt="vmware" width="20" height="20" align="center"> VMWare
 - <img src="https://simpleicons.org/icons/virtualbox.svg" alt="oracle virtualbox" width="20" height="20" align="center"> Oracle VirtualBox
-- <img src="https://simpleicons.org/icons/proxmox.svg" alt="proxmox" width="20" height="20" align="center"> Proxmox
+- <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/proxmox.svg" alt="proxmox" width="20" height="20" align="center"> Proxmox
 
 ### **CONTAINERS:**
 
 - <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/lxd.svg" alt="lxd" width="20" height="20" align="center"> LXD
 - <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/docker.svg" alt="docker" width="20" height="20" align="center"> Docker
 - <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/podman.svg" alt="podman" width="20" height="20" align="center"> Podman
-- <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/kubernetes.svg" alt="kubernetes" width="20" height="20" align="center"> Kubernetes
+- <img src="https://simpleicons.org/icons/kubernetes.svg" alt="kubernetes" width="20" height="20" align="center"> Kubernetes
 
 ### **CI/CD:**
 
 - <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/gitlab.svg" alt="gitlab" width="20" height="20" align="center"> Gitlab
-- <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/github.svg" alt="github" width="20" height="20" align="center"> GitHUB
+- <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/github-light.svg" alt="github" width="20" height="20" align="center"> GitHUB
 - <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/gitea.svg" alt="gitea" width="20" height="20" align="center"> Gitea
 
 ### **OBSERVABILITY:**
 
 - <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/grafana.svg" alt="grafana" width="20" height="20" align="center"> Grafana
-- <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/fluentd.svg" alt="fluentd" width="20" height="20" align="center"> Fluentd
+- <img src="https://simpleicons.org/icons/fluentd.svg" alt="fluentd" width="20" height="20" align="center"> Fluentd
 - <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/prometheus.svg" alt="prometheus" width="20" height="20" align="center"> Prometheus
-- <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/nagios.svg" alt="nagios" width="20" height="20" align="center"> Nagios
 - <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/zabbix.svg" alt="zabbix" width="20" height="20" align="center"> Zabbix
-- <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/new relic.svg" alt="new relic" width="20" height="20" align="center"> New Relic
-- <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/elastic search.svg" alt="elastic search" width="20" height="20" align="center"> Elastic search
-- <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/datadog.svg" alt="datadog" width="20" height="20" align="center"> Datadog
+- <img src="https://simpleicons.org/icons/newrelic.svg" alt="new relic" width="20" height="20" align="center"> New Relic
+- <img src="https://simpleicons.org/icons/elasticsearch.svg" alt="elastic search" width="20" height="20" align="center"> Elastic search
+- <img src="https://simpleicons.org/icons/datadog.svg" alt="datadog" width="20" height="20" align="center"> Datadog
 
 ### **DATABASES:**
 
