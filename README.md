@@ -25,24 +25,24 @@ and infrastructure as code.
 
 ### **NETWORKING:**
 
-- <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/cisco.svg" alt="cisco" width="20" height="20" align="center"> Cisco
+- <img src="https://simpleicons.org/icons/cisco.svg" alt="cisco" width="20" height="20" align="center"> Cisco
 - <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/fortinet.svg" alt="fortinet" width="20" height="20" align="center"> Fortinet
 
 ### **AUTOMATION:**
 
 - <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/ansible.svg" alt="ansible" width="20" height="20" align="center"> Ansible
 - <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/hashicorp-terraform.svg" alt="terraform" width="20" height="20" align="center"> Terraform
-- <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/puppet.svg" alt="puppet" width="20" height="20" align="center"> Puppet
+- <img src="https://simpleicons.org/icons/puppet.svg" alt="puppet" width="20" height="20" align="center"> Puppet
 - <img src="https://simpleicons.org/icons/chef.svg" alt="chef" width="20" height="20" align="center"> Chef
 - <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/rundeck.svg" alt="rundeck" width="20" height="20" align="center"> Rundeck
 - <img src="https://simpleicons.org/icons/openstack.svg" alt="openstack" width="20" height="20" align="center"> Openstack
 
 ### **VIRTUALIZATION:**
 
-- <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/qemu.svg" alt="qemu" width="20" height="20" align="center"> QEMU
-- <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/vmware.svg" alt="vmware" width="20" height="20" align="center"> VMWare
-- <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/oracle virtualbox.svg" alt="oracle virtualbox" width="20" height="20" align="center"> Oracle VirtualBox
-- <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/proxmox.svg" alt="proxmox" width="20" height="20" align="center"> Proxmox
+- <img src="https://simpleicons.org/icons/qemu.svg" alt="qemu" width="20" height="20" align="center"> QEMU
+- <img src="https://simpleicons.org/icons/vmware.svg" alt="vmware" width="20" height="20" align="center"> VMWare
+- <img src="https://simpleicons.org/icons/virtualbox.svg" alt="oracle virtualbox" width="20" height="20" align="center"> Oracle VirtualBox
+- <img src="https://simpleicons.org/icons/proxmox.svg" alt="proxmox" width="20" height="20" align="center"> Proxmox
 
 ### **CONTAINERS:**
 
