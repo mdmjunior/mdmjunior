@@ -33,7 +33,7 @@ focus on automation (infra as a code), optimizing systems for performance and re
 #### Linux
 
 <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/ubuntu.svg" alt="Ubuntu" width="20" height="20" align="center"> Ubuntu
-<img src="https://simpleicons.org/icons/centos.svg" alt="CentOS" width="20" height="20" align="center"> CentOS
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/centos.svg" alt="CentOS" width="20" height="20" align="center"> CentOS
 <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/fedora.svg" alt="Fedora" width="20" height="20" align="center"> Fedora
 <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/debian.svg" alt="Debian" width="20" height="20" align="center"> Debian
 <img src="https://simpleicons.org/icons/redhat.svg" alt="Red Hat" width="20" height="20" align="center"> Red Hat
