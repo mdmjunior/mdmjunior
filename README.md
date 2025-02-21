@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### **SysAdmin** | **Linux Engineer** | **DevOps Specialist** | **SRE**
+### **Linux Engineer** | **SysAdmin** | **Infrastructure Specialist** | **DevOps Engineer** | **SRE** | **Cloud Engineer**
 
 </div>
 
