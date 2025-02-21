@@ -42,7 +42,7 @@ focus on automation (infra as a code), optimizing systems for performance and re
 
 ### Unix
 
-- <img src="https://simpleicons.org/icons/freebsd.svg" alt="FreeBSD" width="20" height="20" align="center"> FreeBSD
+- <img src="images/icons/freebsd-color.svg" alt="FreeBSD" width="20" height="20" align="center"> FreeBSD
 - <img src="https://simpleicons.org/icons/netbsd.svg" alt="NetBSD" width="20" height="20" align="center"> NetBSD
 - <img src="https://simpleicons.org/icons/openbsd.svg" alt="OpenBSD" width="20" height="20" align="center"> OpenBSD
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Oracle_Solaris_logo.svg/120px-Oracle_Solaris_logo.svg.png" alt="Solaris" width="20" height="20" align="center"> Oracle Solaris
