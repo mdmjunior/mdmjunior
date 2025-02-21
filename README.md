@@ -7,8 +7,6 @@
 
 <div align="center">
 
-[<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/gmail.svg" alt="GMail" width="30" height="30" align="center">](mailto: iam@marciomoreirajunior.com.br)
-
 [<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/linkedin.svg" alt="LinkedIn" width="30" height="30" align="center">](https://www.linkedin.com/in/mdmjunior)
 
 [<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/facebook.svg" alt="Facebook" width="30" height="30" align="center">](https://www.facebook.com/mdmjunior)
