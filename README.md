@@ -2,8 +2,7 @@
 
 <div align="center">
 
-I'm a **System Administrator**, **Linux Engineer**, **DevOps Specialist**, and **Site Reliability Engineer (SRE)** with a passion for automation, scalability, 
-and infrastructure as code.
+## I'm a **System Administrator**, **Linux Engineer**, **DevOps Specialist**, and **Site Reliability Engineer (SRE)** with a passion for automation, scalability, and infrastructure as code.
 
 </div>
 
