@@ -1,8 +1,8 @@
-<h1 align="center" font-bold> Marcio Moreira Junior </h1>
+<h1 align="center" font-bold> MARCIO MOREIRA JUNIOR </h1>
 
 <div align="center">
 
-### **Linux Engineer** | **SysAdmin** | **Infrastructure Specialist** | **DevOps Engineer** | **SRE** | **Cloud Engineer**
+#### **SysAdmin** | **Infrastructure Specialist** | **DevOps Engineer** | **SRE** | **Cloud Engineer**
 
 </div>
 
