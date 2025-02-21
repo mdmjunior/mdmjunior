@@ -2,8 +2,12 @@
 
 <div align="center">
 
-#### **SysAdmin** | **Infrastructure Specialist** | **DevOps Engineer** | **SRE** | **Cloud Engineer**
+### **Linux SysAdmin** | **IT Infrastructure Specialist** | **DevOps Engineer** | **SRE** | **Cloud Engineer**
 
+</div>
+
+<div align="left">
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/linkedin.svg" alt="LinkedIn" width="20" height="20" align="center"> Linkedin
 </div>
 
 ## TECH AND TOOLS
