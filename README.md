@@ -38,7 +38,7 @@ focus on automation (infra as a code), optimizing systems for performance and re
 - <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/fedora-alt.svg" alt="Fedora" width="20" height="20" align="center"> Fedora
 - <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/opensuse.svg" alt="SuSE" width="20" height="20" align="center"> OpenSUSE
 - <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/linux.svg" alt="Red Hat" width="20" height="20" align="center"> Red Hat
-- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ubuntu-linux-alt.svg" alt="Ubuntu" width="20" height="20" align="center"> Ubuntu
+- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ubuntu-linux.svg" alt="Ubuntu" width="20" height="20" align="center"> Ubuntu
 
 ### Unix
 
