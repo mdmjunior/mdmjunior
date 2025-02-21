@@ -30,13 +30,23 @@ focus on automation (infra as a code), optimizing systems for performance and re
 
 ### **OS**
 
-<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/arch-linux.svg" alt="ArchLinux" width="20" height="20" align="center"> ArchLinux
-<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/centos.svg" alt="CentOS" width="20" height="20" align="center"> CentOS
-<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/debian-linux.svg" alt="Debian" width="20" height="20" align="center"> Debian
-<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/fedora-alt.svg" alt="Fedora" width="20" height="20" align="center"> Fedora
-<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/opensuse.svg" alt="SuSE" width="20" height="20" align="center"> OpenSUSE
-<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/linux.svg" alt="Red Hat" width="20" height="20" align="center"> Red Hat
-<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ubuntu-linux-alt.svg" alt="Ubuntu" width="20" height="20" align="center"> Ubuntu
+#### Linux
+
+- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/arch-linux.svg" alt="ArchLinux" width="20" height="20" align="center"> ArchLinux
+- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/centos.svg" alt="CentOS" width="20" height="20" align="center"> CentOS
+- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/debian-linux.svg" alt="Debian" width="20" height="20" align="center"> Debian
+- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/fedora-alt.svg" alt="Fedora" width="20" height="20" align="center"> Fedora
+- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/opensuse.svg" alt="SuSE" width="20" height="20" align="center"> OpenSUSE
+- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/linux.svg" alt="Red Hat" width="20" height="20" align="center"> Red Hat
+- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ubuntu-linux-alt.svg" alt="Ubuntu" width="20" height="20" align="center"> Ubuntu
+
+### Unix
+
+- <img src="https://simpleicons.org/icons/freebsd.svg" alt="FreeBSD" width="20" height="20" align="center"> FreeBSD
+- <img src="https://simpleicons.org/icons/netbsd.svg" alt="NetBSD" width="20" height="20" align="center"> NetBSD
+- <img src="https://simpleicons.org/icons/openbsd.svg" alt="OpenBSD" width="20" height="20" align="center"> OpenBSD
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Oracle_Solaris_logo.svg/120px-Oracle_Solaris_logo.svg.png" alt="Solaris" width="20" height="20" align="center"> Oracle Solaris
+
 <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-windows.svg" alt="Windows" width="20" height="20" align="center"> Windows
 <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/apple-alt.svg" alt="MacOS" width="20" height="20" align="center"> MacOSX
 
