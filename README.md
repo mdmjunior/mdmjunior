@@ -28,7 +28,7 @@ focus on automation (infra as a code), optimizing systems for performance and re
 
 ## **Tech Stack**
 
-### **OS**
+### **Operating Systems**
 
 #### Linux
 
@@ -40,7 +40,7 @@ focus on automation (infra as a code), optimizing systems for performance and re
 - <img src="images/icons/redhat-color.svg" alt="Red Hat" width="20" height="20" align="center"> Red Hat
 - <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ubuntu-linux.svg" alt="Ubuntu" width="20" height="20" align="center"> Ubuntu
 
-### Unix
+#### Unix
 
 - <img src="images/icons/aix-color.svg" alt="AIX" width="20" height="20" align="center"> AIX
 - <img src="images/icons/freebsd-color.svg" alt="FreeBSD" width="20" height="20" align="center"> FreeBSD
@@ -48,36 +48,39 @@ focus on automation (infra as a code), optimizing systems for performance and re
 - <img src="images/icons/openbsd-color.svg" alt="OpenBSD" width="20" height="20" align="center"> OpenBSD
 - <img src="images/icons/solaris-color.svg" alt="Solaris" width="20" height="20" align="center"> Oracle Solaris
 
+#### Friendly
 
-<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-windows.svg" alt="Windows" width="20" height="20" align="center"> Windows
-<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/apple-alt.svg" alt="MacOS" width="20" height="20" align="center"> MacOSX
+- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-windows.svg" alt="Windows" width="20" height="20" align="center"> Windows
+- <img src="images/icons/macos-color.svg" alt="MacOS" width="20" height="20" align="center"> MacOSX
 
-### **LANGUAGES:**
+### **Development/Scripting**
 
-- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/terminal.svg" alt="Bash" width="20" height="20" align="center"> Bash Script
-- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/python.svg" alt="python" width="20" height="20" align="center"> Python
-- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/html.svg" alt="html5" width="20" height="20" align="center"> HTML5
+- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/terminal.svg" alt="Bash" width="20" height="20" align="center"> Shell Script
 - <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/go.svg" alt="golang" width="20" height="20" align="center"> Go
+- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/html.svg" alt="html5" width="20" height="20" align="center"> HTML5
+- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/nodejs-alt.svg" alt="NodeJS" width="20" height="20" align="center"> NodeJS
+- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/python.svg" alt="python" width="20" height="20" align="center"> Python
 
-### **NETWORKING:**
+### **Network**
 
 - <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/cisco.svg" alt="cisco" width="20" height="20" align="center"> Cisco
 - <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/fortinet.svg" alt="fortinet" width="20" height="20" align="center"> Fortinet
 
-### **AUTOMATION:**
+### **Automation/IaC**
 
-- <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/ansible.svg" alt="ansible" width="20" height="20" align="center"> Ansible
-- <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/hashicorp-terraform.svg" alt="terraform" width="20" height="20" align="center"> Terraform
-- <img src="https://simpleicons.org/icons/puppet.svg" alt="puppet" width="20" height="20" align="center"> Puppet
+- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ansible-light.svg" alt="ansible" width="20" height="20" align="center"> Ansible
 - <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/cyberchef.svg" alt="chef" width="20" height="20" align="center"> Chef
+
+- <img src="images/icons/puppet-color.svg" alt="puppet" width="20" height="20" align="center"> Puppet
 - <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/rundeck.svg" alt="rundeck" width="20" height="20" align="center"> Rundeck
+- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/hashicorp-terraform.svg" alt="terraform" width="20" height="20" align="center"> Terraform
 
 ### **VIRTUALIZATION:**
 
-- <img src="https://simpleicons.org/icons/qemu.svg" alt="qemu" width="20" height="20" align="center"> QEMU
-- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/vmware.svg" alt="vmware" width="20" height="20" align="center"> VMWare
+- <img src="images/icons/qemu-color.svg" alt="qemu" width="20" height="20" align="center"> QEMU
+- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/vmware-esxi.svg" alt="vmware" width="20" height="20" align="center"> VMWare
 - <img src="images/icons/virtualbox-color.svg" alt="oracle virtualbox" width="20" height="20" align="center"> Oracle VirtualBox
-- <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/proxmox.svg" alt="proxmox" width="20" height="20" align="center"> Proxmox
+- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/proxmox-light.svg" alt="proxmox" width="20" height="20" align="center"> Proxmox
 
 ### **CONTAINERS:**
 
@@ -115,7 +118,8 @@ focus on automation (infra as a code), optimizing systems for performance and re
 
 ### **SECURITY:**
 
-- <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/opnsense.svg" alt="opnsense" width="20" height="20" align="center"> OpnSense
+- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/pfsense.svg" alt="opnsense" width="20" height="20" align="center"> pfSense
+- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/opnsense.svg" alt="opnsense" width="20" height="20" align="center"> OpnSense
 - <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/openvpn.svg" alt="openvpn" width="20" height="20" align="center"> OpenVPN
 
 ### **CLOUD COMPUTING:**
