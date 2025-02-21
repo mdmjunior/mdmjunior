@@ -26,10 +26,9 @@ focus on automation (infra as a code), optimizing systems for performance and re
 
 </div>
 
+## **Tech Stack**
 
-## **Tools Stack**
-
-### **OPERATING SYSTEMS:**
+#### **OS**
 
 - <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/ubuntu.svg" alt="Ubuntu" width="20" height="20" align="center"> Ubuntu
 - <img src="https://simpleicons.org/icons/centos.svg" alt="CentOS" width="20" height="20" align="center"> CentOS
@@ -38,7 +37,7 @@ focus on automation (infra as a code), optimizing systems for performance and re
 - <img src="https://simpleicons.org/icons/redhat.svg" alt="Red Hat" width="20" height="20" align="center"> Red Hat
 - <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/opensuse.svg" alt="SuSE" width="20" height="20" align="center"> openSUSE
 - <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/arch-linux.svg" alt="ArchLinux" width="20" height="20" align="center"> ArchLinux
-- <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/microsoft-windows.svg" alt="Windows" width="20" height="20" align="center"> Windows
+- <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/windows-11.png" alt="Windows" width="20" height="20" align="center"> Windows
 - <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/apple-light.svg" alt="MacOS" width="20" height="20" align="center"> MacOS
 
 ### **LANGUAGES:**
