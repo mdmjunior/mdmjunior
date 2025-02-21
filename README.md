@@ -1,4 +1,6 @@
-# Welcome to my Tech Bunker
+<div align="center">
+# **Welcome to my Tech Bunker**
+</div>
 
 I'm a **System Administrator**, **Linux Engineer**, **DevOps Specialist**, and **Site Reliability Engineer (SRE)** with a passion for automation, scalability, 
 and infrastructure as code.
