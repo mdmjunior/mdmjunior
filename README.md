@@ -17,7 +17,7 @@
 
 <div align="justify">
 
-<p center> 
+<p align="center">
 
 ## Professional Summary
 
