@@ -56,6 +56,7 @@ focus on automation (infra as a code), optimizing systems for performance and re
 ### **Development/Scripting**
 
 - <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/terminal.svg" alt="Bash" width="20" height="20" align="center"> Shell Script
+- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/git.svg" alt="Git" width="20" height="20" align="center"> Git
 - <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/go.svg" alt="golang" width="20" height="20" align="center"> Go
 - <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/html.svg" alt="html5" width="20" height="20" align="center"> HTML5
 - <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/nodejs-alt.svg" alt="NodeJS" width="20" height="20" align="center"> NodeJS
@@ -63,8 +64,12 @@ focus on automation (infra as a code), optimizing systems for performance and re
 
 ### **Network**
 
-- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/cisco.svg" alt="cisco" width="20" height="20" align="center"> Cisco
-- <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/fortinet.svg" alt="fortinet" width="20" height="20" align="center"> Fortinet
+- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/cisco.svg" alt="cisco" width="20" height="20" align="center"> Cisco Routers
+- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/cloudflare.svg" alt="CloudFlare" width="20" height="20" align="center"> CloudFlare
+- <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/fortinet.svg" alt="fortinet" width="20" height="20" align="center"> Fortinet Appliances
+- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/huawei.svg" alt="Huawei" width="20" height="20" align="center"> Huawei Routers
+- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/opnsense.svg" alt="opnsense" width="20" height="20" align="center"> OpnSense
+- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/pfsense.svg" alt="opnsense" width="20" height="20" align="center"> pfSense
 
 ### **Automation/IaC**
 
@@ -79,7 +84,7 @@ focus on automation (infra as a code), optimizing systems for performance and re
 ### **Virtualization**
 
 - <img src="images/icons/qemu-color.svg" alt="qemu" width="20" height="20" align="center"> QEMU
-- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/vmware-esxi.svg" alt="vmware" width="20" height="20" align="center"> VMWare
+- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/vmware-esxi.svg" alt="vmware" width="20" height="20" align="center"> VMWare ESXi
 - <img src="images/icons/virtualbox-color.svg" alt="oracle virtualbox" width="20" height="20" align="center"> Oracle VirtualBox
 - <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/proxmox-light.svg" alt="proxmox" width="20" height="20" align="center"> Proxmox
 
@@ -92,19 +97,24 @@ focus on automation (infra as a code), optimizing systems for performance and re
 
 ### **CI/CD**
 
+- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/atlassian-bitbucket.svg" alt="BitBucket" width="20" height="20" align="center"> BitBucket
 - <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/gitlab.svg" alt="gitlab" width="20" height="20" align="center"> Gitlab
-- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/github-light.svg" alt="github" width="20" height="20" align="center"> GitHUB
+- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/github-light.svg" alt="github" width="20" height="20" align="center"> Github
 - <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/gitea.svg" alt="gitea" width="20" height="20" align="center"> Gitea
+- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/jenkins.svg" alt="Jenkins" width="20" height="20" align="center"> Jenkins
 
 ### **Observability**
 
-- <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/grafana.svg" alt="grafana" width="20" height="20" align="center"> Grafana
+- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/datadog.svg" alt="datadog" width="20" height="20" align="center"> Datadog
+- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/elasticsearch.svg" alt="ElasticSearch" width="20" height="20" align="center"> ElasticSearch
 - <img src="https://simpleicons.org/icons/fluentd.svg" alt="fluentd" width="20" height="20" align="center"> Fluentd
+- <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/grafana.svg" alt="grafana" width="20" height="20" align="center"> Grafana
+- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/elastic-kibana.svg" alt="Kibana" width="20" height="20" align="center"> Kibana
+- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/elastic-logstash.svg" alt="LogStash" width="20" height="20" align="center"> LogStash
+- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/nagios.svg" alt="Nagios" width="20" height="20" align="center"> Nagios
+- <img src="https://simpleicons.org/icons/newrelic.svg" alt="new relic" width="20" height="20" align="center"> New Relic
 - <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/prometheus.svg" alt="prometheus" width="20" height="20" align="center"> Prometheus
 - <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/zabbix.svg" alt="zabbix" width="20" height="20" align="center"> Zabbix
-- <img src="https://simpleicons.org/icons/newrelic.svg" alt="new relic" width="20" height="20" align="center"> New Relic
-- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/elasticsearch.svg" alt="elastic search" width="20" height="20" align="center"> Elastic search
-- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/datadog.svg" alt="datadog" width="20" height="20" align="center"> Datadog
 
 ### **Databases**
 
@@ -119,16 +129,14 @@ focus on automation (infra as a code), optimizing systems for performance and re
 
 ### **Security**
 
-- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/pfsense.svg" alt="opnsense" width="20" height="20" align="center"> pfSense
-- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/opnsense.svg" alt="opnsense" width="20" height="20" align="center"> OpnSense
 - <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/openvpn.svg" alt="openvpn" width="20" height="20" align="center"> OpenVPN
 
 ### **Cloud Computing**
 
-- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/openstack.svg" alt="openstack" width="20" height="20" align="center"> Openstack
-- <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/amazon-web-services.svg" alt="amazon web services" width="20" height="20" align="center"> Amazon Web Services
-- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/google-cloud-platform.svg" alt="google cloud" width="20" height="20" align="center"> Google Cloud Platform
+- <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/amazon-web-services.svg" alt="amazon web services" width="20" height="20" align="center"> AWS
 - <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/digitalocean.svg" alt="digital ocean" width="20" height="20" align="center"> Digital Ocean
+- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/google-cloud-platform.svg" alt="google cloud" width="20" height="20" align="center"> GCP
+- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/openstack.svg" alt="openstack" width="20" height="20" align="center"> Openstack
 - <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/vultr.svg" alt="vultr" width="20" height="20" align="center"> Vultr
 
 ## CURRENT PROJECT
