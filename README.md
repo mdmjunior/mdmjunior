@@ -8,7 +8,15 @@
 
 <div>
 
-<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/linkedin.svg" alt="LinkedIn" width="20" height="20" align="center">[LinkedIn](https://www.linkedin.com/in/mdmjunior)
+#### Contact Information
+
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/linkedin.svg" alt="LinkedIn" width="20" height="20" align="center"> [LinkedIn](https://www.linkedin.com/in/mdmjunior)
+
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/facebook.svg" alt="Facebook" width="20" height="20" align="center"> [Facebook](https://www.facebook.com/mdmjunior)
+
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/instagram.svg" alt="Instagram" width="20" height="20" align="center"> [Instagram](https://www.instagram.com/marciomjunior)
+
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/medium.svg" alt="Medium" width="20" height="20" align="center"> [Medium](https://www.medium.com/mdmjunior)
 
 </div>
 
