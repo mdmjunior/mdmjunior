@@ -70,32 +70,33 @@ focus on automation (infra as a code), optimizing systems for performance and re
 
 - <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ansible-light.svg" alt="ansible" width="20" height="20" align="center"> Ansible
 - <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/cyberchef.svg" alt="chef" width="20" height="20" align="center"> Chef
-
+- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/hashicorp-packer.svg" alt="Packer" width="20" height="20" align="center"> Packer
 - <img src="images/icons/puppet-color.svg" alt="puppet" width="20" height="20" align="center"> Puppet
 - <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/rundeck.svg" alt="rundeck" width="20" height="20" align="center"> Rundeck
 - <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/hashicorp-terraform.svg" alt="terraform" width="20" height="20" align="center"> Terraform
+- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/hashicorp-vagrant.svg" alt="Vagrant" width="20" height="20" align="center"> Vagrant
 
-### **VIRTUALIZATION:**
+### **Virtualization**
 
 - <img src="images/icons/qemu-color.svg" alt="qemu" width="20" height="20" align="center"> QEMU
 - <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/vmware-esxi.svg" alt="vmware" width="20" height="20" align="center"> VMWare
 - <img src="images/icons/virtualbox-color.svg" alt="oracle virtualbox" width="20" height="20" align="center"> Oracle VirtualBox
 - <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/proxmox-light.svg" alt="proxmox" width="20" height="20" align="center"> Proxmox
 
-### **CONTAINERS:**
+### **Containers**
 
 - <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/linuxcontainers.svg" alt="lxd" width="20" height="20" align="center"> LXD
 - <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/docker.svg" alt="docker" width="20" height="20" align="center"> Docker
 - <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/podman.svg" alt="podman" width="20" height="20" align="center"> Podman
 - <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/kubernetes.svg" alt="kubernetes" width="20" height="20" align="center"> Kubernetes
 
-### **CI/CD:**
+### **CI/CD**
 
 - <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/gitlab.svg" alt="gitlab" width="20" height="20" align="center"> Gitlab
 - <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/github-light.svg" alt="github" width="20" height="20" align="center"> GitHUB
 - <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/gitea.svg" alt="gitea" width="20" height="20" align="center"> Gitea
 
-### **OBSERVABILITY:**
+### **Observability**
 
 - <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/grafana.svg" alt="grafana" width="20" height="20" align="center"> Grafana
 - <img src="https://simpleicons.org/icons/fluentd.svg" alt="fluentd" width="20" height="20" align="center"> Fluentd
@@ -105,24 +106,24 @@ focus on automation (infra as a code), optimizing systems for performance and re
 - <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/elasticsearch.svg" alt="elastic search" width="20" height="20" align="center"> Elastic search
 - <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/datadog.svg" alt="datadog" width="20" height="20" align="center"> Datadog
 
-### **DATABASES:**
+### **Databases**
 
 - <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/mysql.svg" alt="mysql" width="20" height="20" align="center"> MySQL
 - <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/mongodb.svg" alt="mongodb" width="20" height="20" align="center"> MongoDB
 - <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/postgresql.svg" alt="postgresql" width="20" height="20" align="center"> PostgreSQL
 
-### **STORAGE:**
+### **Storage**
 
 - <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/ceph.svg" alt="ceph" width="20" height="20" align="center"> Ceph
 - <img src="https://simpleicons.org/icons/googlecloudstorage.svg" alt="glusterfs" width="20" height="20" align="center"> GlusterFS
 
-### **SECURITY:**
+### **Security**
 
 - <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/pfsense.svg" alt="opnsense" width="20" height="20" align="center"> pfSense
 - <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/opnsense.svg" alt="opnsense" width="20" height="20" align="center"> OpnSense
 - <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/openvpn.svg" alt="openvpn" width="20" height="20" align="center"> OpenVPN
 
-### **CLOUD COMPUTING:**
+### **Cloud Computing**
 
 - <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/openstack.svg" alt="openstack" width="20" height="20" align="center"> Openstack
 - <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/amazon-web-services.svg" alt="amazon web services" width="20" height="20" align="center"> Amazon Web Services
@@ -130,7 +131,7 @@ focus on automation (infra as a code), optimizing systems for performance and re
 - <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/digitalocean.svg" alt="digital ocean" width="20" height="20" align="center"> Digital Ocean
 - <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/vultr.svg" alt="vultr" width="20" height="20" align="center"> Vultr
 
-### CURRENT PROJECT
+## CURRENT PROJECT
 
 I'm currently working on [**AutoM8**](https://github.com/mdmjunior/AutoM8), a powerful automation tool designed to simplify and streamline repetitive tasks. 
 Check it out and feel free to contribute!
