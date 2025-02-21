@@ -37,23 +37,25 @@ focus on automation (infra as a code), optimizing systems for performance and re
 - <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/debian-linux.svg" alt="Debian" width="20" height="20" align="center"> Debian
 - <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/fedora-alt.svg" alt="Fedora" width="20" height="20" align="center"> Fedora
 - <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/opensuse.svg" alt="SuSE" width="20" height="20" align="center"> OpenSUSE
-- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/linux.svg" alt="Red Hat" width="20" height="20" align="center"> Red Hat
+- <img src="images/icons/redhat-color.svg" alt="Red Hat" width="20" height="20" align="center"> Red Hat
 - <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ubuntu-linux.svg" alt="Ubuntu" width="20" height="20" align="center"> Ubuntu
 
 ### Unix
 
+- <img src="images/icons/aix-color.svg" alt="AIX" width="20" height="20" align="center"> AIX
 - <img src="images/icons/freebsd-color.svg" alt="FreeBSD" width="20" height="20" align="center"> FreeBSD
 - <img src="images/icons/netbsd-color.svg" alt="NetBSD" width="20" height="20" align="center"> NetBSD
 - <img src="images/icons/openbsd-color.svg" alt="OpenBSD" width="20" height="20" align="center"> OpenBSD
 - <img src="images/icons/solaris-color.svg" alt="Solaris" width="20" height="20" align="center"> Oracle Solaris
+
 
 <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-windows.svg" alt="Windows" width="20" height="20" align="center"> Windows
 <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/apple-alt.svg" alt="MacOS" width="20" height="20" align="center"> MacOSX
 
 ### **LANGUAGES:**
 
-- <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/nexterm.svg" alt="Bash" width="20" height="20" align="center"> Bash Script
-- <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/python.svg" alt="python" width="20" height="20" align="center"> Python
+- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/terminal.svg" alt="Bash" width="20" height="20" align="center"> Bash Script
+- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/python.svg" alt="python" width="20" height="20" align="center"> Python
 - <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/html.svg" alt="html5" width="20" height="20" align="center"> HTML5
 - <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/go.svg" alt="golang" width="20" height="20" align="center"> Go
 
@@ -74,7 +76,7 @@ focus on automation (infra as a code), optimizing systems for performance and re
 
 - <img src="https://simpleicons.org/icons/qemu.svg" alt="qemu" width="20" height="20" align="center"> QEMU
 - <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/vmware.svg" alt="vmware" width="20" height="20" align="center"> VMWare
-- <img src="https://simpleicons.org/icons/virtualbox.svg" alt="oracle virtualbox" width="20" height="20" align="center"> Oracle VirtualBox
+- <img src="images/icons/virtualbox-color.svg" alt="oracle virtualbox" width="20" height="20" align="center"> Oracle VirtualBox
 - <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/proxmox.svg" alt="proxmox" width="20" height="20" align="center"> Proxmox
 
 ### **CONTAINERS:**
