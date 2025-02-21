@@ -17,27 +17,17 @@
 
 <div align="justify">
 
-<p align="center">
+## **About Me**
 
-## Professional Summary
+Hi! I am Marcio, and welcome to my code place.
 
-</p>
-
-Experienced DevOps Engineer with over 24 years in IT, I started as a Linux Systems Administrator and worked as one till
-the world changed into this automated stuff. I focused on specializing in Network Infrastructure, Cybersecurity, and
-operating systems. I am 43 years old and have been deeply involved with Linux and FreeBSD since 1998, which sparked
-my passion for technology. Since 2000, I have worked consistently in the IT industry, gaining extensive experience in
-implementing, maintaining, and supporting complex networks and data systems. My career has been focused on
-ensuring high reliability and productivity in IT environments, with a strong emphasis on automation, containerization,
-cloud computing, and security. My last professional experiences were in Telecom companies, which provided me with
-knowledge about telecommunication networks which allowed me to work in other areas. I am proficient in several
-technologies including Ansible (for Linux and MacOS), Terraform, LXD containers, NAS, Docker, Kubernetes, and GCP,
-among others, and have successfully contributed to several teams in Brazilian and international companies.
+I am a System Administrator, Linux Engineer, and DevOps/SRE specialist with extensive experience in managing complex infrastructures. I
+focus on automation (infra as a code), optimizing systems for performance and reliability. Currently, I'm developing the AutoM8 project, developing ansible playbooks , shell and python scripts to make my life easier. My expertise spans containerization, cloud environments, CI/CD pipelines, and scalable solutions.
 
 </div>
 
 
-## TECH AND TOOLS
+## **Tools Stack**
 
 ### **OPERATING SYSTEMS:**
 
