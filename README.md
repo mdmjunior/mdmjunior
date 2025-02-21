@@ -1,14 +1,14 @@
-<h1 align="center" font-bold> MARCIO MOREIRA JUNIOR </h1>
-
+<h1 align="center" font-bold> Who Am I? </h1>
 <div align="center">
 
 ### **Linux SysAdmin** | **IT Infrastructure Specialist** | **DevOps Engineer** | **SRE** | **Cloud Engineer**
+
 <hr>
 </div>
 
 <div>
 
-<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/linkedin.svg" alt="LinkedIn" width="20" height="20" align="center"> Linkedin
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/linkedin.svg" alt="LinkedIn" width="20" height="20" align="center"> <a href="https://www.linkedin.com/in/mdmjunior">Linkedin</a>
 
 </div>
 
