@@ -17,7 +17,11 @@
 
 <div align="justify">
 
+<p center> 
+
 ## Professional Summary
+
+</p>
 
 Experienced DevOps Engineer with over 24 years in IT, I started as a Linux Systems Administrator and worked as one till
 the world changed into this automated stuff. I focused on specializing in Network Infrastructure, Cybersecurity, and
