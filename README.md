@@ -112,7 +112,7 @@ focus on automation (infra as a code), optimizing systems for performance and re
 - <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/elastic-kibana.svg" alt="Kibana" width="20" height="20" align="center"> Kibana
 - <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/elastic-logstash.svg" alt="LogStash" width="20" height="20" align="center"> LogStash
 - <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/nagios.svg" alt="Nagios" width="20" height="20" align="center"> Nagios
-- <img src="https://simpleicons.org/icons/newrelic.svg" alt="new relic" width="20" height="20" align="center"> New Relic
+- <img src="images/icons/newrelic-color.svg" alt="new relic" width="20" height="20" align="center"> New Relic
 - <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/prometheus.svg" alt="prometheus" width="20" height="20" align="center"> Prometheus
 - <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/zabbix.svg" alt="zabbix" width="20" height="20" align="center"> Zabbix
 
