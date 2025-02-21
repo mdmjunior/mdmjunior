@@ -8,7 +8,7 @@
 
 <div>
 
-[<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/linkedin.svg" alt="LinkedIn" width="20" height="20" align="center">](https://www.linkedin.com/in/mdmjunior)[![LinkedIn](https://www.linkedin.com/in/mdmjunior)]
+[<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/linkedin.svg" alt="LinkedIn" width="20" height="20" align="center">][LinkedIn](https://www.linkedin.com/in/mdmjunior)
 
 </div>
 
