@@ -1,33 +1,3 @@
-<div align="center">
-
-# **Marcio Moreira Junior**
-
-</div>
-
-<div align="center">
-
-### **Linux SysAdmin** | **IT Infrastructure Specialist** | **DevOps Engineer** | **SRE** | **Cloud Engineer**
-
-[<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/linkedin.svg" alt="LinkedIn" width="30" height="30" align="center">](https://www.linkedin.com/in/mdmjunior) 
-[<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/facebook.svg" alt="Facebook" width="30" height="30" align="center">](https://www.facebook.com/mdmjunior) 
-[<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/instagram.svg" alt="Instagram" width="30" height="30" align="center">](https://www.instagram.com/marciomjunior) 
-[<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/medium-light.svg" alt="Medium" width="30" height="30" align="center">](https://www.medium.com/mdmjunior)
-
-</div>
-
-<div align="justify">
-
-## **About Me**
-
-Hi! I am Marcio, and welcome to my code place.
-
-I am a System Administrator, Linux Engineer, and DevOps/SRE specialist with extensive experience in managing complex infrastructures. I
-focus on automation (infra as a code), optimizing systems for performance and reliability. Currently, I'm developing the AutoM8 project, developing ansible playbooks , shell and python scripts to make my life easier. My expertise spans containerization, cloud environments, CI/CD pipelines, and scalable solutions.
-
-</div>
-
-## **Tech Stack**
-
 ### **Automation/IaC**
 
 - <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ansible-light.svg" alt="ansible" width="20" height="20" align="center"> Ansible
@@ -99,7 +69,7 @@ focus on automation (infra as a code), optimizing systems for performance and re
 ### **Monitoring/Observability**
 
 - <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/datadog.svg" alt="datadog" width="20" height="20" align="center"> Datadog
-- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/elasticsearch.svg" alt="ElasticSearch" width="20" height="20" align="center"> Elastic Search
+- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/elasticsearch.svg" alt="ElasticSearch" width="20" height="20" align="center"> ElasticSearch
 - <img src="images/icons/fluentd-color.svg" alt="fluentd" width="20" height="20" align="center"> Fluentd
 - <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/grafana.svg" alt="grafana" width="20" height="20" align="center"> Grafana
 - <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/icinga-light.svg" alt="Icinga" width="20" height="20" align="center"> Icinga
@@ -157,7 +127,7 @@ focus on automation (infra as a code), optimizing systems for performance and re
 - <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/restic.png" alt="Restic" width="20" height="20" align="center"> Restic
 - <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/sophos.svg" alt="Sophos" width="20" height="20" align="center"> Sophos
 - <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/vaultwarden-light.svg" alt="VaultWarden" width="20" height="20" align="center"> VaultWarden
-- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/veeam.svg" alt="VeeamDataCloud" width="20" height="20" align="center"> Veeam Data Cloud
+- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/veeam.svg" alt="VeeamDataCloud" width="20" height="20" align="center"> VeeamDataCloud
 - <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/wazuh.svg" alt="Wazuh" width="20" height="20" align="center"> Wazuh
 - <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/wireguard.svg" alt="WireGuard" width="20" height="20" align="center"> WireGuard
 
@@ -177,8 +147,3 @@ focus on automation (infra as a code), optimizing systems for performance and re
 - <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/vmware-esxi.svg" alt="vmware" width="20" height="20" align="center"> VMWare ESXi
 - <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/vmware-vcenter.png" alt="VMWareVCenter" width="20" height="20" align="center"> VMWare VCenter
 - <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/vmware-workstation.svg" alt="Workstation" width="20" height="20" align="center"> VMWare Workstation
-
-## CURRENT PROJECT
-
-I'm currently working on [**AutoM8**](https://github.com/mdmjunior/AutoM8), a powerful automation tool designed to simplify and streamline repetitive tasks. 
-Check it out and feel free to contribute!
