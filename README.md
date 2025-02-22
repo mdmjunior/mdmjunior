@@ -8,10 +8,10 @@
 
 ### **Linux SysAdmin** | **IT Infrastructure Specialist** | **DevOps Engineer** | **SRE** | **Cloud Engineer**
 
-[<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/linkedin.svg" alt="LinkedIn" width="30" height="30" align="center">](https://www.linkedin.com/in/mdmjunior) 
-[<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/facebook.svg" alt="Facebook" width="30" height="30" align="center">](https://www.facebook.com/mdmjunior) 
-[<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/instagram.svg" alt="Instagram" width="30" height="30" align="center">](https://www.instagram.com/marciomjunior) 
-[<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/medium-light.svg" alt="Medium" width="30" height="30" align="center">](https://www.medium.com/mdmjunior)
+[![LinkedIn](https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/linkedin.svg)](https://www.linkedin.com/in/mdmjunior)
+[![Facebook](https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/facebook.svg)](https://www.facebook.com/mdmjunior)
+[![Instagram](https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/instagram.svg)](https://www.instagram.com/marciomjunior)
+[![Medium](https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/medium-light.svg)](https://www.medium.com/mdmjunior)
 
 </div>
 
