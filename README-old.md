@@ -61,7 +61,7 @@
 
 <div align="center">
 
-### **Linux SysAdmin** | **IT Infrastructure Specialist** | **DevOps Engineer** | **SRE** | **Cloud Engineer**
+### **Linux SysAdmin** | **IT Infra Specialist** | **DevOps Engineer** | **SRE** | **Cloud Engineer**
 
 [<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/linkedin.svg" alt="LinkedIn" width="30" height="30" align="center">](https://www.linkedin.com/in/mdmjunior) 
 [<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/facebook.svg" alt="Facebook" width="30" height="30" align="center">](https://www.facebook.com/mdmjunior) 
@@ -83,26 +83,15 @@ focus on automation (infra as a code), optimizing systems for performance and re
 
 ## **Tech Stack**
 
-<div class="accordion">
+### **Automation/IaC**
 
-<h3> Automation/IaC </h3>
-
-<div class="accordion-content">
-
-<ul>
-
-
-<li> - <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ansible-light.svg" alt="ansible" width="20" height="20" align="center"> Ansible </li>
-<li> - <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/awx.png" alt="AWX" width="20" height="20" align="center"> AWX </li>
-<li> - <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/cyberchef.svg" alt="chef" width="20" height="20" align="center"> Chef </li>
-<li> - <img src="images/icons/puppet-color.svg" alt="puppet" width="20" height="20" align="center"> Puppet </li>
-<li> - <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/rundeck.svg" alt="rundeck" width="20" height="20" align="center"> Rundeck </li>
-<li> - <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/semaphore.png" alt="semaphore" width="20" height="20" align="center"> Semaphore </li>
-<li> - <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/hashicorp-terraform.svg" alt="terraform" width="20" height="20" align="center"> Terraform </li>
-
-</ul>
-</div>
-</div>
+- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ansible-light.svg" alt="ansible" width="20" height="20" align="center"> Ansible
+- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/awx.png" alt="AWX" width="20" height="20" align="center"> AWX
+- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/cyberchef.svg" alt="chef" width="20" height="20" align="center"> Chef
+- <img src="images/icons/puppet-color.svg" alt="puppet" width="20" height="20" align="center"> Puppet
+- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/rundeck.svg" alt="rundeck" width="20" height="20" align="center"> Rundeck
+- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/semaphore.png" alt="semaphore" width="20" height="20" align="center"> Semaphore
+- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/hashicorp-terraform.svg" alt="terraform" width="20" height="20" align="center"> Terraform
 
 ### **CI/CD**
 
