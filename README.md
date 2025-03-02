@@ -1,11 +1,5 @@
 <div align="center">
 
-# **Marcio Moreira Junior**
-
-</div>
-
-<div align="center">
-
 ### **Linux SysAdmin** | **IT Infrastructure Specialist** | **DevOps Engineer** | **SRE** | **Cloud Engineer**
 
 [<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/linkedin.svg" alt="LinkedIn" width="30" height="30" align="center">](https://www.linkedin.com/in/mdmjunior) 
@@ -17,12 +11,12 @@
 
 <div align="justify">
 
-## **About Me**
+## **Hey everyone, I am Marcio Junior!**
 
-Hi! I am Marcio, and welcome to my code place.
-
-I am a System Administrator, Linux Engineer, and DevOps/SRE specialist with extensive experience in managing complex infrastructures. I
-focus on automation (infra as a code), optimizing systems for performance and reliability. Currently, I'm developing the AutoM8 project, developing ansible playbooks , shell and python scripts to make my life easier. My expertise spans containerization, cloud environments, CI/CD pipelines, and scalable solutions.
+I am a DevOps Engineer with extensive experience in managing complex infrastructures. I focus on automation (infra as a code) on linux systems, 
+optimizing for performance and reliability. Currently, I'm developing the AutoM8 tool, a personal project, developing and mantaining 
+ansible playbooks, shell and python scripts, everything to make my life easier. My expertise spans Linux and Unix Systems, containerization, cloud environments, 
+CI/CD pipelines, and scalable solutions.
 
 </div>
 
@@ -178,7 +172,3 @@ focus on automation (infra as a code), optimizing systems for performance and re
 - <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/vmware-vcenter.png" alt="VMWareVCenter" width="20" height="20" align="center"> VMWare VCenter
 - <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/vmware-workstation.svg" alt="Workstation" width="20" height="20" align="center"> VMWare Workstation
 
-## CURRENT PROJECT
-
-I'm currently working on [**AutoM8**](https://github.com/mdmjunior/AutoM8), a powerful automation tool designed to simplify and streamline repetitive tasks. 
-Check it out and feel free to contribute!
