@@ -1,15 +1,9 @@
-<div align="justify">
-
 ## **Hey everyone, I am Marcio Junior!**
 
 I am a DevOps Engineer with extensive experience in managing complex infrastructures. I focus on automation (infra as a code) on linux systems, 
 optimizing for performance and reliability. Currently, I'm developing the AutoM8 tool, a personal project, developing and mantaining 
 ansible playbooks, shell and python scripts, everything to make my life easier. My expertise spans Linux and Unix Systems, containerization, cloud environments, 
 CI/CD pipelines, and scalable solutions.
-
-</div>
-
-<div align="center">
 
 ### **Find me all around the web:**
 
@@ -18,9 +12,8 @@ CI/CD pipelines, and scalable solutions.
 [<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/instagram.svg" alt="Instagram" width="30" height="30" align="center">](https://www.instagram.com/marciomjunior) 
 [<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/medium-light.svg" alt="Medium" width="30" height="30" align="center">](https://www.medium.com/mdmjunior)
 
-</div>
 
-## **My tech stack:**
+### **My tech stack:**
 
 - <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ansible-light.svg" alt="ansible" width="20" height="20" align="center"> Ansible
 - <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/hashicorp-terraform.svg" alt="terraform" width="20" height="20" align="center"> Terraform
