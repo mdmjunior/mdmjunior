@@ -22,7 +22,7 @@ CI/CD pipelines, and scalable solutions.
 
 ## **My tech stack:**
 
-- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ansible-light.svg" alt="ansible" width="20" height="20"> Ansible
+- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ansible-light.svg" alt="ansible" width="20" height="20" align="center"> Ansible
 - <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/hashicorp-terraform.svg" alt="terraform" width="20" height="20" align="center"> Terraform
 - <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/github-light.svg" alt="github" width="20" height="20" align="center"> Github
 - <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/amazon-web-services-light.svg" alt="amazon web services" width="20" height="20" align="center"> AWS
