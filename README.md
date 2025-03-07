@@ -1,6 +1,6 @@
 <div align="center">
 
-## **Hey everyone, I am Marcio Junior!**
+**Hey everyone, I am Marcio Junior!**
 
 I am a DevOps Engineer and Linux System Administrator
 </div>
