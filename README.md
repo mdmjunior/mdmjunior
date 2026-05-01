@@ -1,16 +1,6 @@
-<h1 align="center">Marcio Junior</h1>
-
-<h3 align="center">DevOps Engineer • Linux System Administrator • SRE</h3>
-
-<p align="center">
-  I build, automate and maintain reliable infrastructure with Linux, cloud, containers, observability and a practical engineering mindset.
-</p>
-
-<br>
-
 <div align="center">
 
-<h2>My tech stack</h2>
+<h2>MY TECH STACK</h2>
 
 <table align="center" role="presentation" border="0" cellpadding="10" cellspacing="0" style="border: 0; border-collapse: collapse; background-color: transparent;">
   <tr style="border: 0; background-color: transparent;">
